@@ -10,6 +10,6 @@ git add .
 
 git commit -m “$message”
 
-git remote add origin https://github.com/$profile/$project.git
+# git remote add origin https://github.com/$profile/$project.git
 
 git push https://github.com/$profile/$project.git master
